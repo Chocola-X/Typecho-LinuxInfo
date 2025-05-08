@@ -103,6 +103,7 @@ class LinuxInfo_Plugin implements Typecho_Plugin_Interface
         <div style="color: #999; line-height: 1.8; text-align: center;">
         $info_str
         </div>
+        <div style="height:40px;display:block;"></div>
         STR;
     }
 
