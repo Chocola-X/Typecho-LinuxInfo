@@ -1,7 +1,7 @@
 <?php
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 /**
- * 查看系统信息，仅限 Linux 系统，基于<a href="https://www.dbkuaizi.com">两双筷子</a>的插件进行二次开发，<a href="https://www.dbkuaizi.com/archives/121.html">使用帮助</a>
+ * 查看系统信息，仅限 Linux 系统，基于<a href="https://www.dbkuaizi.com">两双筷子</a>的插件进行二次开发，<a href="https://github.com/Chocola-X/Typecho-LinuxInfo">使用帮助</a>
  *
  * @package LinuxInfo
  * @author GTX690战术核显卡导弹
