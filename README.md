@@ -9,5 +9,6 @@
 <p align="center">
     <img style="width: 750px;" src="./.sample_img/02.png" />
 </p>
+
 ## 注意事项
 本插件仅可用于Linux系统，Windows系统不适用。
