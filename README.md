@@ -11,6 +11,7 @@
 <p align="center">
     <img style="width: 750px;" src="./.sample_img/02.png" />
 </p>
+
 ## 温馨提示
 默认开启后不显示服务器信息，需要在插件设置里面开启。
 CPU，内存，硬盘的信息展示，将鼠标放到上面可以显示详情。
